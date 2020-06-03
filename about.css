@@ -1,0 +1,12 @@
+body{
+	background-image: linear-gradient(to bottom right, #bce0ee, #db36a4);
+}
+h1{
+	font-size: 54px;
+	font-family: "Open Sans";
+}
+p{
+	text-indent: 5px;
+	font-size: 16px;
+
+}

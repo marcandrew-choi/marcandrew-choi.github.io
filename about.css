@@ -3,10 +3,14 @@ body{
 }
 h1{
 	font-size: 54px;
+	font-color: white;
 	font-family: "Open Sans";
+	align-content: center;
 }
 p{
-	text-indent: 5px;
+	text-indent: 8px;
 	font-size: 16px;
+	font-color: white;
+	font-family: "Open Sans";
 
 }

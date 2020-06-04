@@ -1,16 +1,17 @@
-body{
-	background-image: linear-gradient(to bottom right, #bce0ee, #db36a4);
-}
 h1{
 	font-size: 54px;
-	font-color: white;
+	font-color: black;
 	font-family: "Open Sans";
 	align-content: center;
 }
 p{
 	text-indent: 8px;
 	font-size: 16px;
-	font-color: white;
+	font-color: grey;
 	font-family: "Open Sans";
-
+}
+img{
+	display: inline-block;
+	width: 400px;
+	height: 500px;
 }
